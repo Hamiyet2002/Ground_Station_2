@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\bin\Debug\Ground_Station_2.exe.config
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\bin\Debug\Ground_Station_2.exe
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\bin\Debug\Ground_Station_2.pdb
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\obj\Debug\Ground_Station_2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\obj\Debug\Ground_Station_2.Form1.resources
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\obj\Debug\Ground_Station_2.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\obj\Debug\Ground_Station_2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\obj\Debug\Ground_Station_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\obj\Debug\Ground_Station_2.exe
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\obj\Debug\Ground_Station_2.pdb
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\obj\Debug\Ground_S.FAEA2A6B.Up2Date
+C:\Users\Lenovo\source\repos\Ground_Station_2\Ground_Station_2\obj\Debug\Ground_Station_2.LoginForm.resources
